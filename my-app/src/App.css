@@ -1,0 +1,9 @@
+@import "tailwindcss";
+@layer base {
+  body {
+    @apply bg-[#0D1B2A];
+  }
+}
+html {
+  scroll-behavior: smooth;
+}
